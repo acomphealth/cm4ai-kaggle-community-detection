@@ -1,6 +1,6 @@
 ![CM4AI Community Detection - Protein Co-elution Competition Banner](banner.png "CM4AI Community Detection - Protein Co-elution Competition")
 
-# CM4AI Community Detection - Protein Co-elution Competition
+# CM4AI Community Detection - Protein Co-elution Kaggle Competition
 - Register for the Competition: https://cm4ai.org/learning/
 - Kaggle Competition Website: https://www.kaggle.com/competitions/cm4ai-community-detection-protein-coelution (available after registration)
 
